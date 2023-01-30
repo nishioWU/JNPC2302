@@ -14,8 +14,7 @@ https://digitallibrary.un.org/record/3959039
 ３）気温と電力  
 ①気象庁  
 https://www.data.jma.go.jp/risk/obsdl/index.php  
-上記から、地点と項目を選んで、3カ月分程度ダウンロード。それを繰り返す  
-
+上記から、地点と項目を選んで、3カ月分程度ダウンロード。それを繰り返す　　
 ②東京電力  
 https://www.tepco.co.jp/forecast/  
 「データのダウンロード」から、2018年以降の分のCSVファイルをダウンロード  
